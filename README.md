@@ -47,3 +47,20 @@ Online Retail Dataset containing transactional sales data including Invoice Numb
 * Data Visualization
 * Business Insights Generation
 * Dashboard Development
+
+## Dataset
+
+Source: UCI Machine Learning Repository
+
+Dataset: Online Retail Dataset
+
+This dataset contains transactional data of a UK-based online retail store from December 2010 to December 2011. The data includes invoice details, product descriptions, quantities, customer IDs, countries, and sales revenue information.
+
+Dataset Link:
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+
+## Dashboard Screen shot
+
+<img width="1652" height="926" alt="image" src="https://github.com/user-attachments/assets/60edc0f4-6a9e-4d68-8edf-10f5f0bd785b" />
+
